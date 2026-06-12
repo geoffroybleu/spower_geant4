@@ -1,1 +1,1 @@
-# spower_geant4
+ce dossier permet de faire la comparaison entre deux versions de geant4 sur la partie spower du dossier example
